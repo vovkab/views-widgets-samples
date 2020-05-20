@@ -20,7 +20,7 @@ android {
     compileSdkVersion rootProject.compileSdkVersion
     defaultConfig {
         applicationId "com.example.android.constraintlayoutexamples"
-        minSdkVersion 19
+        minSdkVersion 14
         targetSdkVersion rootProject.targetSdkVersion
         versionCode 1
         versionName "1.0"
